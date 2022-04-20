@@ -1,11 +1,11 @@
 {
     "contract":
         {
-            "name": "OpenSea Creatures",
-            "description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
-            "image": "https://openseacreatures.io/image.png",
-            "external_link": "https://openseacreatures.io",
-            "seller_fee_basis_points": 1250,
-            "payout_address": "0x456db3afb5ca7f3ae08b8511da25de155232a2cf"
+            "name": "OpenSea Test Contract Metadata",
+            "description": "This is the description for OpenSea Test Contract Metadata",
+            "image": "https://nft-meta-data.s3.amazonaws.com/1.png",
+            "external_link": "https://google.com",
+            "seller_fee_basis_points": 1000,
+            "payout_address": "0x01ce0c2672f4c9e0926b87d3e14c29d4e37d414c"
         }
 }
