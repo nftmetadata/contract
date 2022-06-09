@@ -1,5 +1,4 @@
 {
-   "contract":{
       "name":"OpenSea Test Contract Metadata",
       "description":"This is the description for OpenSea Test Contract Metadata",
       "image":"https://nft-meta-data.s3.amazonaws.com/1.png",
@@ -17,7 +16,6 @@
       "discord_url":null,
       "medium_username":null,
       "created_date":"2021-05-11T18:22:19.398578"
-   },
    "token":[
       {
          "attributes":[
