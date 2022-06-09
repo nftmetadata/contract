@@ -5,17 +5,6 @@
    "external_link":"https://google.com",
    "seller_fee_basis_points":1000,
    "payout_address":"0x01ce0c2672f4c9e0926b87d3e14c29d4e37d414c",
-   "slug":"veefriends",
-   "telegram_url":null,
-   "twitter_username":"veefriends",
-   "instagram_username":"veefriends",
-   "wiki_url":null,
-   "is_nsfw":true,
-   "banner_image_url":"https://lh3.googleusercontent.com/4RYeNt3ET75VLMoCZz-fsOhXg8AW8qlkHfgkbA0FfEayNpsHvOZROygyy9IhY4LwrnJUXqkeDjBZBr8bCf0Ng_xUiRZqWRGng3sc=s2500",
-   "chat_url":null,
-   "discord_url":null,
-   "medium_username":null,
-   "created_date":"2021-05-11T18:22:19.398578",
    "token":[
       {
          "attributes":[
