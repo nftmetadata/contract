@@ -1,7 +1,5 @@
 {
-   "description":"This is the description for OpenSea Test Contract Metadata",
-   "seller_fee_basis_points":1000,
-   "payout_address":"0x01ce0c2672f4c9e0926b87d3e14c29d4e37d414c",
+
    "token":[
       {
          "attributes":[
