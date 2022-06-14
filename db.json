@@ -1,7 +1,4 @@
 {
-"Name": "TOKEN COLECTION NAME",
-"description": "TOKEN COLLECTION DESCRIPTION ",
-"seller_fee_basis_points": 3000,
    "token":[
       {
          "attributes":[
@@ -63,5 +60,8 @@
          "name":"Smiles #0",
          "image":"https://nft-meta-data.s3.amazonaws.com/6.png"
       }
-   ]
+   ],
+"Name": "TOKEN COLECTION NAME",
+"description": "TOKEN COLLECTION DESCRIPTION ",
+"seller_fee_basis_points": 3000
 }
