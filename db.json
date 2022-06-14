@@ -1,6 +1,8 @@
 {
+	"token": [{
+		"name": "TOKEN COLECTION NAME",
+		"description": "TOKEN COLLECTION DESCRIPTION ",
+		"seller_fee_basis_points": 3000
+	}]
 
-"name": "TOKEN COLECTION NAME",
-"description": "TOKEN COLLECTION DESCRIPTION ",
-"seller_fee_basis_points":3000
 }
