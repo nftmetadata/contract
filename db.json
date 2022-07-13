@@ -1,6 +1,6 @@
  {
  	"contract": {
- 		"description": "TOKEN COLLECTION DESCRIPTION1",
+ 		"description": "TOKEN COLLECTION DESCRIPTION 2",
  		"image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
    "banner_image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
  		"external_link": "https://google.com",
@@ -16,7 +16,7 @@
 "short_description": "SHORT DESCRIPTION",
 "slug": "test-slug-for-opensea",
    
- 		"fee_recipient": "0x01ce0c2672f4c9e0926b87d3e14c29d4e37d414c"
+ 		"fee_recipient": "0x01ce0c2672f4c9e0926b87d3e14c29d4e37d414c,0x1039B8b47Fb9Cb33E983634feF26276Ee1bD0c32"
  	}
  }
 
