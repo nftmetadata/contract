@@ -1,11 +1,11 @@
- {
+{
  	"contract": {
- 		"name": "TOKEN COLLECTION NAME 2",
-   "description": "TOKEN COLLECTION DESCRIPTION 2",
- 		"image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
-   "banner_image_url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
- 		"external_link": "https://google.com",
- 		"seller_fee_basis_points": 3000,
+ 		"name": "m00m World",
+ 		"description": "TTogether we're building the sci-fi empire of tomorrow. Our mission is to ignite the creativity of millions of people through decentralized collaboration",
+ 		"image": "https://pbs.twimg.com/profile_images/1627113007938412545/cA99iXXI_400x400.jpg",
+ 		"banner_image_url": "https://www.m00m.world/img/story/StarryNight.png",
+ 		"external_link": "https://www.m00m.world/",
+ 		"seller_fee_basis_points": 70,
  		"fee_recipient": "0x01ce0c2672f4c9e0926b87d3e14c29d4e37d414c"
  	}
  }
